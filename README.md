@@ -24,7 +24,7 @@ weather-forecast microservices
 
 3) city name can be changed to any other city name for example, New York, London, Munich and so on.
 
-#Reasoning
+# Reasoning
 
 1) OpenWeatherMapApi is used to get all the necessary informations.
 
